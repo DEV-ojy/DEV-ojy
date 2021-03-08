@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Welcome my github
+## Welcome my github
 
 ```
 🙌 Hello, my name is Oh ju yeon🙌
@@ -14,6 +14,10 @@ Welcome my github
 ```
 - s20050@gsm.hs.kr (School)
 - ```
+
+### 🔥 Burning to learn 🔥
+```1.PyThon 
+ ```
 
 ### My Records 📊 
 [![DEV-ojy's github stats](https://github-readme-stats.vercel.app/api?username=DEV-ojy)](https://github.com/anuraghazra/github-readme-stats)[![DEV-ojy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-ojy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
