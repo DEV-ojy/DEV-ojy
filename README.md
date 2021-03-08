@@ -1,4 +1,4 @@
-# Hi everyone 👋 Welcome my github
+# Hi everyone 👋 Welcome to my github
 
 # InTroduce 
 
