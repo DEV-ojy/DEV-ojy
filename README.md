@@ -1,5 +1,6 @@
 ### Hi 👋
 
+Welcome my github
 
 ```
 🙌 Hello, my name is Oh ju yeon🙌
@@ -7,6 +8,12 @@
 💻 I am becoming a AI developer
 ```
 
+
+
+### E-mail 💌
+```
+- s20050@gsm.hs.kr (School)
+- ```
 
 ### My Records 📊 
 [![DEV-ojy's github stats](https://github-readme-stats.vercel.app/api?username=DEV-ojy)](https://github.com/anuraghazra/github-readme-stats)[![DEV-ojy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-ojy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
