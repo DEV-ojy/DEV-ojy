@@ -1,6 +1,4 @@
-# Hi everyone 👋
-
-## Welcome my github
+# Hi everyone 👋 Welcome my github
 
 # InTroduce 
 
@@ -21,6 +19,8 @@
 ### 🔥 Burning to learn 🔥
 ```
 1.PyThon 
+2.Tensorflow
+3.django
 ```
 
 ### My Records 📊 
