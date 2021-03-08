@@ -13,10 +13,10 @@
 ### E-mail 💌
 ```
 - s20050@gsm.hs.kr (School)
-- ```
+-
 
 ### 🔥 Burning to learn 🔥
-```1.PyThon 
+1.PyThon 
  ```
 
 ### My Records 📊 
