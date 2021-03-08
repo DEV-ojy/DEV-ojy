@@ -1,9 +1,9 @@
 ### Hi 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
 
 
-
+### My Records 📊 
+[![DEV-ojy's github stats](https://github-readme-stats.vercel.app/api?username=DEV-ojy)](https://github.com/anuraghazra/github-readme-stats)[![DEV-ojy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-ojy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DEV-ojy/DEV-ojy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
