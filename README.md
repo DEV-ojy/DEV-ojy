@@ -1,6 +1,12 @@
 ### Hi 👋
 
 
+```
+🙌 Hello, my name is Oh ju yeon🙌
+🏫 I'm student of Gwangju Software Meister high school
+💻 I am becoming a AI developer
+```
+
 
 ### My Records 📊 
 [![DEV-ojy's github stats](https://github-readme-stats.vercel.app/api?username=DEV-ojy)](https://github.com/anuraghazra/github-readme-stats)[![DEV-ojy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-ojy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
