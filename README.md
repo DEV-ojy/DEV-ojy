@@ -18,9 +18,8 @@
 
 ### 🔥 Burning to learn 🔥
 ```
-1.PyThon 
-2.js
-3.django
+1.PyThon
+2.JS
 ```
 
 ### My Records 📊 
