@@ -5,7 +5,7 @@
 ```
 🙌 Hello, my name is Oh ju yeon🙌
 🏫 I'm student of Gwangju Software Meister high school
-💻 I am becoming a AI developer
+💻 I am becoming a AI,FullStack developer
 ```
 
 
