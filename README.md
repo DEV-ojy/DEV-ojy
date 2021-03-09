@@ -19,7 +19,7 @@
 ### 🔥 Burning to learn 🔥
 ```
 1.PyThon 
-2.Tensorflow
+2.js
 3.django
 ```
 
