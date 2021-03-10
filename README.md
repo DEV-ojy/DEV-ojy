@@ -1,6 +1,6 @@
 # Hi everyone 👋 Welcome to my github
 
-✨ # InTroduce ✨
+# InTroduce ✨
 
 ```
 🙌 Hello, my name is Oh ju yeon🙌
