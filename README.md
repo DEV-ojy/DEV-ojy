@@ -10,7 +10,7 @@
 
 
 
-### 💬 aks me
+### Aks Me 💬💬
 :arrow_down::arrow_down:
 ```
 E-mail:s20050@gsm.hs.kr (School) 💌
@@ -18,7 +18,7 @@ E-mail:s20050@gsm.hs.kr (School) 💌
 
 ### 🔥 Burning to learn 🔥
 ```
-1.PyThon
+1.PyThon 
 2.JS
 3.web design
 ```
