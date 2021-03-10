@@ -1,6 +1,6 @@
 # Hi everyone 👋 Welcome to my github
 
-# InTroduce 
+# InTroduce ✨
 
 ```
 🙌 Hello, my name is Oh ju yeon🙌
@@ -10,16 +10,17 @@
 
 
 
-### E-mail 💌
-
+### 💬 aks me
+:arrow_down::arrow_down:
 ```
-- s20050@gsm.hs.kr (School)
+E-mail:s20050@gsm.hs.kr (School) 💌
 ```
 
 ### 🔥 Burning to learn 🔥
 ```
 1.PyThon
 2.JS
+3.web design
 ```
 
 ### My Records 📊 
