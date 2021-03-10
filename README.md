@@ -10,8 +10,7 @@
 
 
 
-### Aks Me 💬💬
-:arrow_down::arrow_down:
+### Aks Me 💬
 ```
 E-mail:s20050@gsm.hs.kr (School) 💌
 ```
