@@ -19,7 +19,6 @@ E-mail:s20050@gsm.hs.kr (School) 💌
 ```
 1.PyThon 
 2.JS
-3.web design
 ```
 
 ### My Records 📊 
