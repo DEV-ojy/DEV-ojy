@@ -5,7 +5,7 @@
 ```
 🙌 Hello, my name is Oh ju yeon🙌
 🏫 I'm student of Gwangju Software Meister high school
-💻 I am becoming a AI,FullStack developer
+💻 I am becoming a AI developer, Data Science
 ```
 
 
@@ -18,7 +18,7 @@ E-mail:s20050@gsm.hs.kr (School) 💌
 ### 🔥 Burning to learn 🔥
 ```
 1.PyThon 
-2.JS
+2.SQL
 ```
 
 ### My Records 📊 
