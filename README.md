@@ -1,5 +1,4 @@
 # Hi everyone 👋 Welcome to my github
-
 # InTroduce ✨
 
 ```
@@ -17,8 +16,7 @@ E-mail:s20050@gsm.hs.kr (School) 💌
 
 ### 🔥 Burning to learn 🔥
 ```
-1.PyThon 
-2.SQL
+1.AI(NLP)
 ```
 
 ### My Records 📊 
