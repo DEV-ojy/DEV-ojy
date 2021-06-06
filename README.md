@@ -9,7 +9,7 @@
 
 
 
-### Aks Me 💬
+### Ask Me 💬
 ```
 E-mail:s20050@gsm.hs.kr  💌
 ```
