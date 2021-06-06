@@ -11,7 +11,7 @@
 
 ### Aks Me 💬
 ```
-E-mail:s20050@gsm.hs.kr (School) 💌
+E-mail:s20050@gsm.hs.kr  💌
 ```
 
 ### 🔥 Burning to learn 🔥
