@@ -17,6 +17,7 @@ E-mail:s20050@gsm.hs.kr  💌
 ### 🔥 Burning to learn 🔥
 ```
 1.AI(NLP)
+2.Unity
 ```
 
 ### My Records 📊 
