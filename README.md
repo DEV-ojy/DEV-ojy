@@ -1,5 +1,5 @@
 # Hi everyone 👋 Welcome to my github
-# InTroduce ✨
+# InTroduce Myself✨
 
 ```
 🙌 Hello, my name is Oh ju yeon🙌
@@ -12,6 +12,7 @@
 ### Ask Me 💬
 ```
 E-mail:s20050@gsm.hs.kr  💌
+Phone-number:010-1234-5678
 ```
 
 ### 🔥 Burning to learn 🔥
